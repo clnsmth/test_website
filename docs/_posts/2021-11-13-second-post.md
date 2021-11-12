@@ -5,4 +5,4 @@ title: From the future
 
 It's only day two of the project and already working on a Saturday! And we have a figure to prove it.
 
-![Software by type](/docs/assets/software_by_type.png)
+![Software by task](/docs/assets/software_by_task.png)
