@@ -7,3 +7,7 @@ description: "Brief project description for home page footer"
 
 # Build settings
 remote_theme: jekyll/minima
+
+header_pages:
+  - results.md
+  - about.md
