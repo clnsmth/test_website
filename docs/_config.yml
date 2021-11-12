@@ -1,0 +1,9 @@
+# Site settings
+title: Our Project
+author:
+  name: Me
+  email: my-email@domain.com
+description: "Our project description"
+
+# Build settings
+remote_theme: jekyll/minima
