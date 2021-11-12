@@ -3,7 +3,7 @@ title: Our Project Title
 author:
   name: Me
   email: my-email@domain.com
-description: "Brief project description for home page footer"
+description: "Text for the right side of the footer"
 
 # Build settings
 remote_theme: jekyll/minima
