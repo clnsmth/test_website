@@ -1,9 +1,9 @@
 # Site settings
-title: Our Project
+title: Our Project Title
 author:
   name: Me
   email: my-email@domain.com
-description: "Our project description"
+description: "Brief project description for home page footer"
 
 # Build settings
 remote_theme: jekyll/minima
