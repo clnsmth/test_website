@@ -8,3 +8,5 @@ It's only day two of the project and already working on a Saturday! And we have 
 ![Software by task](/assets/software_by_task.png)
 
 ![Software by task](/software_by_task.png)
+
+![Software by task](/test_website/assets/software_by_task.png)
