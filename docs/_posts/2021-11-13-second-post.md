@@ -7,4 +7,8 @@ It's only day two of the project and already working on a Saturday! And we have 
 
 ![Software by task](/test_website/assets/software_by_task.png)
 
-[link to first post](/_posts/2021-11-12-first-post)
+<p style="text-align: center">
+    <img alt="publish" src="/docs/assets/software_by_task.png" style="max-height: 10vmin;" width="700" height="500"/>
+</p>
+
+[link to author resources](/docs/resources/for_authors.md)
